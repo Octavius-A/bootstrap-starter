@@ -1,0 +1,17 @@
+// This file overrides bootstrap's core variables AND imports Bootstrap's SASS
+
+// Custom colors
+// $primary: ;
+// $secondary: ;
+// $success: ;
+// $info: ;
+// $warning: ;
+// $danger: ;
+// $light: ;
+// $dark: ;
+
+// Optional responsive font sizes via RFS
+//$enable-responsive-font-sizes: true;
+
+// Bootstrap's default variables
+@import "../../node_modules/bootstrap/scss/bootstrap";

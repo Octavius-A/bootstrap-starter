@@ -1,0 +1,21 @@
+{
+    "name": "bootstrap-starter",
+    "version": "1.0.0",
+    "description": "Simple starter for bootstrap projects",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "author": "dom-jm",
+    "license": "MIT",
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "jquery": "^3.4.1",
+        "popper.js": "^1.15.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.13",
+        "gulp": "^3.9.1",
+        "gulp-sass": "^3.1.0"
+    }
+}
